@@ -1,0 +1,11 @@
+{
+  "name": "Colibri",
+  "version": "1.0.0",
+  "description": "Redecouvrons Node Express et les API REST",
+  "main": "index.js",
+  "author": "Hodonou SOUNTON <sounton@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.4"
+  }
+}
